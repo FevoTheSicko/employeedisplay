@@ -1,0 +1,36 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+header{
+    background-color: rgb(218, 67, 67);
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    padding: 0%;
+    margin: 0%;
+    font-size: 200%;
+    color: white;
+    line-height: 90px;
+}
+.Employercard{
+width: 200px;
+border:solid;
+margin: 50px;
+border-radius: 5%;
+padding: 0;
+display: inline-block;
+border-width: 10px;
+}
+p{
+height: 20px;
+  border-width: 5px; 
+  border:solid ;
+}
+h1{
+    background-color: rgb(75, 75, 247);
+    margin: 0;
+}
